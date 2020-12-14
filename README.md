@@ -1,8 +1,9 @@
 # Analysis of Algorithms: Ford-Fulkerson
 
-This C++ program implements the Ford-Fulkerson algorithm to calculate the maximum flow of the grpah.
+This C++ program implements the Ford-Fulkerson algorithm to calculate the maximum flow of the graph.
 
-To test the program for different edges and weights, please change the driver function part of the program. 
+To test the program for different edges and weights, please change the driver function part of the program.
+I have added another graph that is commented out (line 86-99), incase you'd like to test it with different weights.
 
 Image of the graph that is written in the program:
 
