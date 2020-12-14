@@ -15,6 +15,7 @@ Image of what the maximum flow of the graph should be:
 
 References: 
 
-https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
-https://www.youtube.com/watch?v=LdOnanfc5TM
+1. https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
+
+2. https://www.youtube.com/watch?v=LdOnanfc5TM
 
